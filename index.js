@@ -16,6 +16,8 @@ const songs = [
     { title: "Blinding Lights", artist: "The Weekend", genre: "Pop" },
     { title: "Bohemian Rhapsody", artist: "Queen", genre: "Rock" },
     { title: "Blame It", artist: "Jamie Foxx ft. T-Pain", genre: "R&B" },
+    { title: "Titanium", artist: "David Guetta ft. Sia", genre: "EDM" },
+    { title: "Wake Me Up", artist: "Avicii", genre: "EDM" }
 
     // Feel free to add even more songs
 ];
