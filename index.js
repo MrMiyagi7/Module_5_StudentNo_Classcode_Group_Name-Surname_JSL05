@@ -11,6 +11,12 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "SICKO MODE", artist: "Travis Scott", genre: "Rap" },
+    { title: "HUMBLE.", artist: "Kendrick Lemar", genre: "Rap" },
+    { title: "Blinding Lights", artist: "The Weekend", genre: "Pop" },
+    { title: "Bohemian Rhapsody", artist: "Queen", genre: "Rock" },
+    { title: "Blame It", artist: "Jamie Foxx ft. T-Pain", genre: "R&B" },
+
     // Feel free to add even more songs
 ];
 
