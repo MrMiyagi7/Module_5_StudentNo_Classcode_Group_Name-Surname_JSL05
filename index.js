@@ -86,5 +86,8 @@ function updateDOMWithPlaylists(playlists) {
   });
 }
 
-// Call generatePlaylist and display the playlists for each Guardian
-generatePlaylist(guardians, songs);
+// Generate playlists
+const guardianPlaylists = generatePlaylist(guardians, songs);
+
+// Update the DOM with the generated playlists
+updateDOMWithPlaylists(guardianPlaylists);
